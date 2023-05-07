@@ -1,4 +1,4 @@
-# An Example of Using cJSON Library
+# An Usage Example of cJSON Library
 
 ## Building
 
